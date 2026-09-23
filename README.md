@@ -19,3 +19,4 @@ Difference: -10
 Product: 200
 Quotient: 0
 Remainder: 10
+<img width="1019" height="667" alt="Homework_2_C" src="https://github.com/user-attachments/assets/f48056be-a63e-47cd-b9d3-65ffb9949ff1" />
